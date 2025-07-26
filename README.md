@@ -47,6 +47,10 @@
 - 🧮 DSA in Java
 - 🛠️ System Design Basics
 
+ > Currently posting **weekly updates** on LinkedIn:
+> > 🚀 JavaScript | React | DSA JAVA | Real-world Projects  
+📝 Follow along → [LinkedIn Profile](https://www.linkedin.com/in/mubarak-ansari/)
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -60,13 +64,6 @@
 - 🔗 [Movie Website](https://movie-website-theta-two.vercel.app/) – React-based frontend movie browser 🎬  
 - 🔗 [Portfolio Website](https://my-portfolio-delta-orpin-16.vercel.app/) – Modern developer portfolio with animations  
 - 🛠 More projects coming soon...
-
----
-
-### 🗓 90-Day Challenge: #LearnInPublic  
-> Currently posting **weekly updates** on LinkedIn:  
-> 🚀 JavaScript | React | DSA JAVA | Real-world Projects  
-📝 Follow along → [LinkedIn Profile](https://www.linkedin.com/in/mubarak-ansari/)
 
 ---
 
