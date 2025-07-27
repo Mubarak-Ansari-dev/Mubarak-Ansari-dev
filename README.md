@@ -51,6 +51,8 @@
 > > 🚀 JavaScript | React | DSA JAVA | Real-world Projects  
 📝 Follow along → [LinkedIn Profile](https://www.linkedin.com/in/mubarak-ansari/)
 
+### 📅 Start Date: 27 July 2025 
+
 ### 📈 GitHub Stats
 
 <p align="center">
