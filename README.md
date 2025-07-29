@@ -53,8 +53,6 @@
 
 ### 📅 Start Date: 27 July 2025 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubarak-Ansari-dev&theme=react-dark)
-
 
 ### 📈 GitHub Stats
 
@@ -64,6 +62,17 @@
 </p>
 
 ---
+
+## 📊 GitHub Analytics
+
+![Mubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubarak-Ansari-dev&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarak-Ansari-dev&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubarak-Ansari-dev&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubarak-Ansari-dev&theme=react-dark)
+
 
 ### 📌 Featured Projects
 - 🔗 [Movie Website](https://movie-website-theta-two.vercel.app/) – React-based frontend movie browser 🎬  
