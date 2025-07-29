@@ -53,6 +53,9 @@
 
 ### 📅 Start Date: 27 July 2025 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubarak-Ansari-dev&theme=react-dark)
+
+
 ### 📈 GitHub Stats
 
 <p align="center">
