@@ -19,37 +19,116 @@
 ---
 ## 🚀 Tech Stack & Tools  
 
+<div align="center">
+
 ### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /><br>HTML5
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /><br>CSS3
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br>React
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" /><br>TailwindCSS
+    </td>
+  </tr>
+</table>
+
+---
 
 ### ⚙️ Backend  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring Boot" /><br>Spring Boot
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br>Node.js
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /><br>MongoDB
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 📘 DSA & Problem Solving  
-![Java DSA](https://img.shields.io/badge/Java%20DSA-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Collections](https://img.shields.io/badge/Collections-FF6F00?style=for-the-badge&logo=coffeescript&logoColor=white)  
-![Algorithms](https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white)  
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)  
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=googlescholar&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java DSA" /><br>Java DSA
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Collections" /><br>Collections
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="Algorithms" /><br>Algorithms
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" height="45" alt="LeetCode" /><br>LeetCode
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45" alt="GeeksforGeeks" /><br>GeeksforGeeks
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+<table>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /><br>GitHub
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /><br>VS Code
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="IntelliJ" /><br>IntelliJ IDEA
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" /><br>Maven
+    </td>
+    <td align="center" width="120" height="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /><br>Docker
+    </td>
+  </tr>
+</table>
+
+</div>
+  
 
 ---
 
