@@ -7,14 +7,21 @@
 
 ---
 
-### 🧕 About Me  
-- 🎓 B.Tech in Computer Science | Passionate about **Clean UI, Fast Frontends, and Real-world Projects**  
-- 💻 Currently sharpening my skills in **React.js, JavaScript, and Java DSA**  
-- 🛠️ Building projects using **MERN Stack** & actively learning **Backend and System Design**  
-- 🧠 Learning in Public with a **90-Day Challenge** on LinkedIn  
-- 🕋 Guided by faith: *“Tie your camel and trust in Allah”* 🤲  
-- 🌱 Focused on growth, purpose, and meaningful impact  
-- 🤝 Open to internships, collaborations, and full-time roles
+### 🧕 About Me 
+
+🎓 B.Tech in Computer Science  
+💻 Frontend Developer (React.js) | Java & Spring Boot Backend Learner  
+
+I’m passionate about building **clean user interfaces**, **fast frontends**, and **scalable backend systems** with real-world impact.
+
+Currently sharpening my skills in **React.js**, **JavaScript**, **Java**, **DSA**, and **Spring Boot**, while building full-stack projects and learning backend architecture step by step.
+
+🛠️ Tech focus: React.js, JavaScript, Java, Spring Boot  
+🧠 Learning in public through a **90-Day Challenge on LinkedIn**  
+🕋 Guided by faith: *“Tie your camel and trust in Allah”* 🤲  
+🌱 Focused on growth, purpose, and meaningful impact  
+🤝 Open to internships, collaborations, and full-time roles
+
 
 ---
 ## 🚀 Tech Stack & Tools  
